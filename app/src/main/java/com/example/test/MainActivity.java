@@ -11,5 +11,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    private void pullDown(){}
+    private void pullDown(){ int i = 0;}
 }
