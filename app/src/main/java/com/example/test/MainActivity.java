@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         int i = 90;
         int ii = 300;
         String name = "Areen Zyoud!!";
-        if(i >= 100)
+        if(i <= 100)
             name = "Areen";
 
     }
