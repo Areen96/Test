@@ -12,7 +12,12 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void pullDown2(){
+        int i = 90;
+        int ii = 300;
         String name = "Areen Zyoud!!";
+        if(i >= 100)
+            name = "Areen";
+
     }
 
     private void makeAChange(){}
