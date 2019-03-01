@@ -11,5 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    private void pullDown2(){}
+    private void pullDown2(){
+        String name = "Areen!!";
+    }
 }
